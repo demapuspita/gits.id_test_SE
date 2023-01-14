@@ -1,3 +1,4 @@
-<video width="320" height="240" controls>
-    <source src="Test 3/src/video/The Script - The Man Who Can’t Be Moved (Official Video) - YouTube - Personal - Microsoft​ Edge 2022-10-13 11-57-13.mp4" type="video.mp4">
-</video>
+##Video Demo - Duplikasi Halaman Home Website GITS.ID
+
+https://user-images.githubusercontent.com/90881339/212457736-9625571d-21a6-45d0-8bdf-a776c107f06b.mp4
+
